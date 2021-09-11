@@ -1,4 +1,4 @@
-# Exerc-cios-Pandas-Projeto-DIO
+# Exercicios Pandas Projeto DIO
 Exercícios de manipulação de dados com PANDAS utilizando o ranking das tarifas de energia do Brasil
 
 No Brasil o cliente de baixa tensão pode escolher entre a tarifa Convencional e a Tarifa Branca. 
